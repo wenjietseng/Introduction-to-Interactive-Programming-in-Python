@@ -1,5 +1,5 @@
 #http://www.codeskulptor.org/#user38_d8M8BjOqrv_3.py
-#上面是原版，下面是改過的，有錯
+#above is the correct one, the link below contains failures
 #http://www.codeskulptor.org/#user38_kVuxSinMgQrde50.py
 
 import simplegui
