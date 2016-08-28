@@ -1,4 +1,4 @@
-http://www.codeskulptor.org/#user38_FQYT1KOJzW_16.py
+# http://www.codeskulptor.org/#user38_FQYT1KOJzW_16.py
 # Mini-project #6 - Blackjack
 
 import simplegui
