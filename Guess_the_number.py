@@ -1,6 +1,4 @@
-http://www.codeskulptor.org/#user38_YOYELUoekhwpYas_0.py
-
-
+# http://www.codeskulptor.org/#user38_YOYELUoekhwpYas_0.py
 
 ###some falses down there.
 #Import the modules that we need.
