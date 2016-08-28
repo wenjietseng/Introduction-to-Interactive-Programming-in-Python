@@ -1,4 +1,4 @@
-http://www.codeskulptor.org/#user38_oDDcso0QxN_9.py
+# http://www.codeskulptor.org/#user38_oDDcso0QxN_9.py
 # implementation of Spaceship - program template for RiceRocks
 import simplegui
 import math
