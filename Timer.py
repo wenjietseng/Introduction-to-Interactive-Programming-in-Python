@@ -1,4 +1,4 @@
-http://www.codeskulptor.org/#user38_OOUlVLf8f1_7.py
+# http://www.codeskulptor.org/#user38_OOUlVLf8f1_7.py
 
 # template for "Stopwatch: The Game"
 import simplegui
