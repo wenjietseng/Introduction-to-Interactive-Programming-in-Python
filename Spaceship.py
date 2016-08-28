@@ -1,5 +1,5 @@
 #Week_7_Spaceship
-http://www.codeskulptor.org/#user38_tWnQfwO51L_5.py
+# http://www.codeskulptor.org/#user38_tWnQfwO51L_5.py
 # program template for Spaceship
 import simplegui
 import math
