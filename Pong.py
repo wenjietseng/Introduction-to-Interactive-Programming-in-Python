@@ -1,4 +1,4 @@
-[PONG GAME]
+# [PONG GAME]
 # http://www.codeskulptor.org/#user38_9zax0HD1bSqTztV_0.py
 # 1.Use "w" and "s" control the left paddle, "¡ô" and "¡õ" for the right paddle.
 # 2.Set your win points, default is 5, remember to press enter for input.
